@@ -20,5 +20,5 @@ print(test)
 
 image = np.asarray(data[1]).squeeze()
 plt.imshow(image)
-plt.savefig('testFig.png')
+# plt.savefig('testFig.png')
 plt.show()
